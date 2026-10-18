@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="assets/architecture.svg" alt="Animated architecture diagram of the event-driven image pixelation pipeline" width="100%"/>
+<img src="architecture.svg" alt="Animated architecture diagram of the event-driven image pixelation pipeline" width="100%"/>
 
 </div>
 
